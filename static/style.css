@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background: #f4f4f4;
+    color: #222;
+}
+header, footer {
+    background: #24406e;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+main {
+    background: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+    box-shadow: 0 2px 8px #aaa;
+    border-radius: 4px;
+}
+a { color: #335599; }
+a:hover { text-decoration: underline; }
